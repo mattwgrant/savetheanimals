@@ -1,9 +1,106 @@
-nav li {
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+header h1 {
+  font-size: 50px;
+  padding-top: 10px;
+}
+
+body {
+  background-color: silver;
+}
+
+header {
+  background-color: orange;
+  height: 125px;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+.fixed-nav-bar  {
+  position: fixed;
+  display: block;
+  margin-left: 80%;
+  border: 2px solid orange;
+  padding: 5px;
+  background-color: #f8f8f8;
+  border-radius: 15px;
+}
+
+.main-nav {
+  display: inline;
+  padding: 0px;
+}
+
+.border {
+  border: 2px solid black;
+  color: black;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 2px;
+  width: 90px;
   display: inline;
 }
 
-/*.fixed-nav-bar  {
-  position: fixed;
+.contact-header {
+  font-size: 30px;
+}
+.border a {
   text-decoration: none;
+  color: black;
+  padding: 0px;
+}
 
-}*/
+.fixed-nav-bar a {
+  text-decoration: none;
+  color: black;
+}
+
+.fixed-nav-bar img {
+  width: 60px;
+}
+
+.fixed-nav-bar i {
+  padding-left: 12px;
+  padding-top: 5px;
+}
+ article h2 {
+  font-size: 30px;
+ }
+
+<<<<<<< HEAD
+
+.species_list h2 {
+  font-size: 30px;
+}
+
+
+ .cOne {
+  float: left;
+  width: 400px;
+}
+
+ .cOne h3 {
+  font-size: 20px;
+}
+
+.cTwo {
+  float: left;
+  width: 400px;
+
+article li a {
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
+  border: 2px solid black;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: center;
+  margin-left: 300px;
+
+ .cTwo h3 {
+  font-size: 20px;
+}
