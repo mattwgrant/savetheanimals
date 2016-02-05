@@ -67,3 +67,27 @@ header {
  article h2 {
   font-size: 30px;
  }
+
+
+.species_list h2 {
+  font-size: 30px;
+}
+
+
+ .cOne {
+  float: left;
+  width: 400px;
+}
+
+ .cOne h3 {
+  font-size: 20px;
+}
+
+.cTwo {
+  float: left;
+  width: 400px;
+}
+
+ .cTwo h3 {
+  font-size: 20px;
+}
