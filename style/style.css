@@ -44,7 +44,9 @@ header {
   display: inline;
 }
 
-
+.contact-header {
+  font-size: 30px;
+}
 .border a {
   text-decoration: none;
   color: black;
@@ -68,6 +70,7 @@ header {
   font-size: 30px;
  }
 
+<<<<<<< HEAD
 
 .species_list h2 {
   font-size: 30px;
@@ -86,7 +89,17 @@ header {
 .cTwo {
   float: left;
   width: 400px;
-}
+
+article li a {
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
+  border: 2px solid black;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: center;
+  margin-left: 300px;
 
  .cTwo h3 {
   font-size: 20px;
