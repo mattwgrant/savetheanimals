@@ -84,25 +84,35 @@ header {
 
 .species_list h2 {
   font-size: 30px;
-
 }
-
 
  .cOne {
   float: left;
-  width: 400px;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 20px;
+  background-color: orange;
+  margin: 50px;
 }
 
  .cOne h3 {
   font-size: 20px;
+  padding-bottom: 10px;
 }
 
 .cTwo {
   float: left;
-  width: 400px;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 20px;
+  background-color: orange;
+  margin: 50px;
 }
  .cTwo h3 {
   font-size: 20px;
+  padding-bottom: 10px;
 }
 
  .help_div {
